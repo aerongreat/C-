@@ -1,1 +1,1 @@
-# C-
+# My c++ school activities
